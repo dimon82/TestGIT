@@ -1,6 +1,1 @@
-initial changes
-new master changes2
-MASTER!
-
-
-...and new feature
+new 2.txt from master
