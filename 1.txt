@@ -1,6 +1,2 @@
-initial changes
-first change
-new master changes2
-MASTER!
-
-change from master
+change from masternew 1.txt
+more changes
